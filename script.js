@@ -18,7 +18,8 @@ function clicked1(){
 
 function start(){
     points.style.visibility="visible";
-    h1.style.visibility = "hidden";
+    h1.style.visibility = "visble";
+    
     startmud.style.visibility = "hidden";
     btn.style.visibility="hidden";
     startmole.style.visibility = "hidden";

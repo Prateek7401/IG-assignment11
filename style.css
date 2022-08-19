@@ -1,5 +1,5 @@
 body {
-    background-image: url("bg10.jpg");
+    background-image: url("https://img.gamedistribution.com/5905642773bc49738888210d0b2d3112-1280x720.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: inherit;
@@ -13,6 +13,7 @@ body {
     font-weight: bolder;
     color: orangered;
     margin-top: 0%;
+    visibility: hidden;
   }
  
   #mole {
